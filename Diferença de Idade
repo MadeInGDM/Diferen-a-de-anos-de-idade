@@ -1,0 +1,4 @@
+print('Descubra a diferença de idade')
+n1 =int(input('Digite primeira idade:'))
+n2 =int(input('Digite segunda idade:'))
+print(f'A diferença de idade de {n1} e {n2} é {n1-n2} anos')
